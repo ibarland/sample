@@ -1,4 +1,4 @@
 Whoah, this is
  just a 
-<?php echo "samlple "; ?>
+<?php echo "sample "; ?>
 file.
